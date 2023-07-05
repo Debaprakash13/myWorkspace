@@ -1,0 +1,7 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(òòÕÓ8ù¿‚ˆˆ1
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ú¿‚ˆˆ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ğëÈåüÿÿÿÿ8ú¿‚ˆˆ1
+5
+java:S2438""counter" is a "Thread".(ï¾™é8û¿‚ˆˆ1
